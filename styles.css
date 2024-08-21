@@ -8,7 +8,7 @@ body {
 }
 
 header {
-    background-color: #6200ea;
+    background-color: #8803D6;
     color: #fff;
     padding: 20px;
     text-align: center;
@@ -42,7 +42,7 @@ main {
 
 .faq-item h2 {
     font-size: 1.1em;
-    color: #6200ea;
+    color: #8803D6;
     cursor: pointer;
 }
 
@@ -54,7 +54,7 @@ main {
 }
 
 .faq-item h2:hover {
-    color: #3700b3;
+    color: #6200ea;
 }
 
 .faq-item.active p {
